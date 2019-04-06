@@ -5,12 +5,12 @@
         "id": 1
     },
     {
-        "heading": "Angular 7 - Creating a multi select tool",
+        "heading": "Creating a multi select tool in Angular",
         "preview": "Learn how to create a multi select tool in Angular 7",
         "id": 2
     },
     {
-        "heading": "Angular 7 - Adding leaflet maps with marker clustering.",
+        "heading": "Adding leaflet maps with marker clustering in Angular",
         "preview": "We'll be integrating leaflet maps into our Angular application. We'll be plotting markers and clustering them.",
         "id": 3
     }
