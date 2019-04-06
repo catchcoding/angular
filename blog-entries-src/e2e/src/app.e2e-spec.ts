@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('Welcome to generic-api-service-src!');
+    expect(page.getTitleText()).toEqual('Welcome to blog-entries-src!');
   });
 
   afterEach(async () => {
