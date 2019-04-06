@@ -3,14 +3,16 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
+import { BlogComponent } from './components/blog/blog.component';
 
 @NgModule({
     declarations: [
         AppComponent,
-        HttpClientModule
+        BlogComponent
     ],
     imports: [
-        BrowserModule
+        BrowserModule,
+        HttpClientModule
     ],
     providers: [],
     bootstrap: [ AppComponent ]

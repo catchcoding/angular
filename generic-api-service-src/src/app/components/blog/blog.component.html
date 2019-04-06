@@ -1,0 +1,4 @@
+<div class="blog-entry" *ngFor="let blogEntry of ($blogEntries | async)">
+    <h2>{{ blogEntry.heading }}</h2>
+    <p>{{ blogEntry.preview }}</p>
+</div>
